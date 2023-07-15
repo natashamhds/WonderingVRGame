@@ -3,8 +3,6 @@ In "Wondering", you assume the role of a student returning to their hometown aft
 
 As you explore the eerie environments, abandoned buildings, and decaying alleyways, you'll encounter paranormal phenomena and ghastly apparitions. The line between reality and nightmare becomes blurred, and mysterious whispers guide you deeper into the darkness. To succeed, you must uncover the town's dark secrets, confront your deepest fears, and outsmart the sinister forces that seek to consume you.
 
-"Wondering" combines the immersive power of Unity with meticulously crafted gameplay and spine-chilling storytelling. The game features stunning visuals, atmospheric sound design, and a nerve-wracking soundtrack to enhance the terrifying experience.
-
 ![image](https://github.com/natashamhds/WonderingVRGame/assets/133860829/1b6c7b20-6674-42c5-adfc-325fbb04201b)
 ![image](https://github.com/natashamhds/WonderingVRGame/assets/133860829/9764388f-4827-4739-8d9e-ffeb860cecf4)
 ![image](https://github.com/natashamhds/WonderingVRGame/assets/133860829/bc083d7d-bf42-4fee-9022-d89a12f32cb0)
